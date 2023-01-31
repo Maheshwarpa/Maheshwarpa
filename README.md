@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on  Markdown and Git...
+- 📫 How to reach me: S559173@nwmissouri.edu ...
 <!--
 **Maheshwarpa/Maheshwarpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
